@@ -1,8 +1,6 @@
-<h1 align="center">hey there 👋</h1>
-
 ###
 
-<h3 align="left">👩‍💻  Hello World! I am Aditi, an aspiring data engineer.</h3>
+<h2 align="left"> Hello World!<br> I'm Aditi, an aspiring data engineer. 👩‍💻 </h2>
 
 ###
 
@@ -10,7 +8,7 @@
 
 ###
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left"> My tech stack 🖤</h3>
 
 ###
 
@@ -73,3 +71,4 @@
 </div>
 
 ###
+
